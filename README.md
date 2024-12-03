@@ -1,6 +1,4 @@
-<div align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=b9e4dd&height=120&text=Hello!%20I'm%20Ju😊&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-</div>
+
 <br> 
 <br> 
 <div align= "center"> 
